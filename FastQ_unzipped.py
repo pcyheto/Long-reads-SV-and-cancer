@@ -1,4 +1,4 @@
-fastq = open("FAL00432_af307028575a34db3268b4df36412691cb25b558_0.fastq","rt")
+fastq = open("fastq file","rt")
 lines = fastq.readlines()
 
 n=100

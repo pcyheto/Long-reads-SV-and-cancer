@@ -1,6 +1,6 @@
 import gzip
 
-fastq = gzip.open("FAL76452_pass_b7700786_985.fastq.gz","rt")
+fastq = gzip.open("gzip file name","rt")
 lines = fastq.readlines()
 
 n=100
